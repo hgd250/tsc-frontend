@@ -10,15 +10,7 @@ export interface TabItem {
   component: string;
 }
 
-export const orgs: string[] = [
-  'citi',
-  'citi1',
-  'citi2',
-  'citi3',
-  'citi4',
-  'citi5',
-  'citi6',
-];
+export const orgs: string[] = ['citi', 'citi1', 'citi2', 'citi3', 'citi4', 'citi5', 'citi6'];
 
 export const services: ListItem[] = [
   {
